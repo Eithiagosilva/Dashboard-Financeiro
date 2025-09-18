@@ -27,7 +27,7 @@ O objetivo foi criar um **dashboard analítico** para monitorar receitas, despes
 - `DadosFinanceiros.xlsx` → Fonte de dados utilizada  
 
 ## 📸 Preview do Dashboard   
-![Dashboard Preview](./dashboard_financeiro_preview.png)  
+![Dashboard Preview](LAB7_FIN/Screenshot_1.png)  
 
 ## 🚀 Resultados  
 O projeto possibilitou:  
